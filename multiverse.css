@@ -1,10 +1,10 @@
 /* @theme multiverse */
 
 :root {
-  --bg-color: #6607e2; /* Light gray background */
-  --text-color: #333;  /* Dark gray text color */
-  --heading-color: #222; /* Slightly darker heading color */
-  --accent-color: #007bff; /* Blue accent color */
+  --bg-color: #f8f7f3ff; /* Light gray background */
+  --text-color: #000000ff;  /* Dark gray text color */
+  --heading-color: #000000ff; /* Slightly darker heading color */
+  --accent-color: #495ff7ff; /* Blue accent color */
 }
 
 section {
