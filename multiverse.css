@@ -1,0 +1,36 @@
+/* @theme multiverse */
+
+:root {
+  --bg-color: #6607e2; /* Light gray background */
+  --text-color: #333;  /* Dark gray text color */
+  --heading-color: #222; /* Slightly darker heading color */
+  --accent-color: #007bff; /* Blue accent color */
+}
+
+section {
+  background-color: var(--bg-color);
+  color: var(--text-color);
+  font-family: sans-serif;
+  padding: 2rem;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: var(--heading-color);
+  font-weight: bold;
+}
+
+a {
+  color: var(--accent-color);
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Optional: Add a subtle border to code blocks */
+code {
+  border: 1px solid #ddd;
+  padding: 0.2em 0.4em;
+  border-radius: 3px;
+}
