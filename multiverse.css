@@ -1,5 +1,7 @@
 /* @theme multiverse */
 
+@import "default";
+
 :root {
   --bg-color: #f8f7f3ff; /* Light gray background */
   --text-color: #000000ff;  /* Dark gray text color */
